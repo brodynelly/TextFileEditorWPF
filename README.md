@@ -20,3 +20,6 @@ This application is a lightweight plain text editor built using C# and WPF (or U
 - **Contextual Menu States**: Menu items are enabled/disabled based on document state (e.g., Save is disabled when there’s nothing to save).
 - **File Change Tracking**: Users are prompted to save unsaved changes before destructive actions.
 - **File Path Intelligence**: Save dialogs default to the last used location and pre-fill file names
+<img width="789" alt="Screenshot 2025-04-14 at 11 03 50 PM" src="https://github.com/user-attachments/assets/939ccd95-36bb-4c6d-9e6f-6289f195c823" />
+<img width="1437" alt="Screenshot 2025-04-14 at 11 04 11 PM" src="https://github.com/user-attachments/assets/6e984423-6376-4d05-859a-34d9ada6b15d" />
+<img width="790" alt="Screenshot 2025-04-14 at 11 04 27 PM" src="https://github.com/user-attachments/assets/9eb0da90-de28-4674-9e95-69293de2f274" />
